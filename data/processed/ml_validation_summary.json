@@ -1,0 +1,24 @@
+{
+  "model": "ExtraTreesRegressor",
+  "validation": "5-fold GroupKFold; district held out by group",
+  "observations": 522,
+  "districts": 30,
+  "crop_groups": 19,
+  "mae_kg_ha": 1097.457121724508,
+  "r2": 0.8013117180259071,
+  "fold_mae_kg_ha": [
+    1028.5977868181194,
+    928.2004116845512,
+    1105.9240188514518,
+    1325.380190902053,
+    1099.1832003663637
+  ],
+  "fold_r2": [
+    0.8100358522722223,
+    0.8440511264894993,
+    0.8511126052376141,
+    0.7249235593203961,
+    0.7764354468098034
+  ],
+  "warning": "One-season aggregated data; predictive performance should be revalidated on additional seasons and external covariates before operational deployment."
+}

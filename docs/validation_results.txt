@@ -1,0 +1,23 @@
+PASS  Required file exists: data/processed/rapis_model_data.csv
+PASS  Required file exists: outputs/district_summary.csv
+PASS  Required file exists: outputs/crop_summary.csv
+PASS  Required file exists: data/processed/ml_validation_summary.json
+PASS  Required file exists: data/processed/ml_oof_predictions.csv
+PASS  Analytical dataset has required columns
+PASS  Required identifiers and outcomes have no missing values
+PASS  No duplicate district-crop rows
+PASS  Yield values are non-negative
+PASS  Production values are non-negative
+PASS  Analytical table has 30 districts (current package expectation)
+PASS  Analytical table has 19 crop groups (current package expectation)
+PASS  Analytical table has 522 crop-district records (current package expectation)
+PASS  District summary covers the same districts as analytical data
+PASS  Crop summary covers the same crop groups as analytical data
+PASS  Out-of-fold prediction file has one row per analytical observation
+PASS  Saved ML summary observation count matches analytical data
+PASS  Saved ML summary district count matches analytical data
+PASS  Saved ML summary crop count matches analytical data
+PASS  Saved ML summary contains five MAE fold results
+PASS  Saved ML summary contains five R-squared fold results
+
+21/21 checks passed
