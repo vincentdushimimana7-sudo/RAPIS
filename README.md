@@ -5,7 +5,7 @@
 **Track:** Agricultural Productivity  
 **Live dashboard:** https://mdcpg6hvhrmnsb4mbd2fm2.streamlit.app/  
 **GitHub repository:** https://github.com/vincentdushimimana7-sudo/RAPIS
-
+**Video link:**https://drive.google.com/file/d/1cdpqJxRDVaXgH5TGg6dwfaaOXoSz5dEQ/view?usp=sharing
 ## Project purpose
 
 RAPIS is an agricultural decision-support prototype that uses available NISR agricultural survey data to explore crop productivity differences across districts and identify evidence-based priorities for further investigation.
@@ -82,3 +82,11 @@ Run commands from the repository root.
 - Official NST2 document (PDF): https://minecofinnew.prod.risa.gov.rw/fileadmin/user_upload/Minecofin/Publications/REPORTS/National_Development_Planning_and_Research/NST2/NST2_2024-2029.pdf
 - Ministry of Agriculture and Animal Resources announcement on PSTA5: https://www.minagri.gov.rw/updates/news-details/rwanda-launches-5th-strategic-plan-for-agriculture-transformation
 - NISR Fourth National Strategy for the Development of Statistics (NSDS4): https://www.statistics.gov.rw/documents/strategies-and-policies/fourth-national-strategy-development-statistics-nsds4
+- ## Video Demonstration
+
+Watch our presentation of the Rwanda Agricultural Productivity Intelligence System (RAPIS), developed by Team Winner for the NISR 2026 Big Data Hackathon.
+
+**Project Video:** [Watch the RAPIS Presentation](https://drive.google.com/file/d/1cdpqJxRDVaXgH5TGg6dwfaaOXoSz5dEQ/view?usp=sharing)
+
+The video presents the agricultural productivity challenge, our data and methodology, the interactive dashboard, and the potential contribution of RAPIS to evidence-based agricultural planning in Rwanda, aligned with NST2 and Vision 2050.
+
